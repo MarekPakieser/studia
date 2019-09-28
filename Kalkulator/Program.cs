@@ -10,6 +10,10 @@ namespace Kalkulator
     {
         static void Main(string[] args)
         {
+            while (true)
+            {
+
+            }
         }
     }
 }
